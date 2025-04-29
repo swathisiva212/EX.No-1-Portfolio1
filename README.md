@@ -1,3 +1,9 @@
+Ex01 Portfolio
+Date:
+AIM
+To create a Portfolio using HTML and CSS.
+
+ALGORITHM
 STEP 1
 Create an HTML file (index.html)
 
@@ -180,3 +186,9 @@ PROGRAM:
         </div>
 </body>
 </html>
+```
+OUTPUT:
+
+RESULT
+The program for creating Portfolio using HTML and CSS is executed successfully.
+
